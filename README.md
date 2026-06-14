@@ -6,7 +6,7 @@
 
 https://my-portfolio-9mwls2mrx-dattaprasadshisodes-projects.vercel.app/
 <p align="center">
-  <a href="https://my-portfolio-9mwls2mrx-dattaprasadshisodes-projects.vercel.app/><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://my-portfolio-9mwls2mrx-dattaprasadshisodes-projects.vercel.app><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="https://in.linkedin.com/in/dattaprasadshisode"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:dattaprasadshisode51@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
@@ -14,7 +14,7 @@ https://my-portfolio-9mwls2mrx-dattaprasadshisodes-projects.vercel.app/
 ---
 
 # 💫 About Me:
-# 💫 About Me:<br>🎓 B.E. Information Technology student<br>🔭 Currently working on strengthening Java, DSA, and core CS fundamentals <br>🌱 Learning Java (Advanced Java), Spring And Springboot Basics <br>👯 Open to collaborating on beginner-friendly Java, Full Stack Developement and college projects <br>💬 Ask me about Java, OOP's, getting started with Java Full Stack Developement, and tech competitions <br>⚡ Fun fact: I focus on understanding Basics<br>
+💫 About Me:<br>🎓 B.E. Information Technology student<br>🔭 Currently working on strengthening Java, DSA, and core CS fundamentals <br>🌱 Learning Java (Advanced Java), Spring And Springboot Basics <br>👯 Open to collaborating on beginner-friendly Java, Full Stack Developement and college projects <br>💬 Ask me about Java, OOP's, getting started with Java Full Stack Developement, and tech competitions <br>⚡ Fun fact: I focus on understanding Basics<br>
 
 
 # 💻 Tech Stack:
