@@ -4,7 +4,6 @@
   <strong>Java Full Stack Developer · Exploring AI/ML & DevOps/System Design</strong>
 </p>
 
-https://my-portfolio-9mwls2mrx-dattaprasadshisodes-projects.vercel.app/
 <p align="center">
   <a href="https://dattaprasadshisode-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="https://in.linkedin.com/in/dattaprasadshisode"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
